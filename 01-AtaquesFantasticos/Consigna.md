@@ -54,7 +54,7 @@ Por último queremos constatar que este sistema de combate exhibe una propiedad:
 
 2. ¿Qué opinan de que para algunas funcionalidades tenemos 3 tests para el mismo comportamiento pero aplicando a cada uno de los combatientes (Arthas, Mankrik y Olgra)
 
-3. ¿Cómo modelaron el resultado de haber desarrollado un combate? ¿qué opciones consideraron y por qué se quedaron con la que entregaro y por qué descartaron a las otras?
+3. ¿Cómo modelaron el resultado de haber desarrollado un combate? ¿qué opciones consideraron y por qué se quedaron con la que entregaron y por qué descartaron a las otras?
 
 # Realización del ejercicio
 
@@ -70,7 +70,8 @@ a) Importante en esta parte es si reifican conceptos y utilizan buenos nombres.
  a) Importante es cómo organizan el código y que sea claro.
 
 4. Hacer andar los tests de la categoría “condicion de distraido” donde implementamos esa funcionalidad.
-
+ a) Importante es cómo organizan el código y que sea claro.
+ 
 5. Hacer andar los tests de `OrquestadorDeCombatesTest` donde implementamos el objeto que va a desarrollar combates entre dos bandos.
  a) Acá hay tests que fallan porque hay mensajes sin implementar (como hicimos en el ejercicio anterior). Están en la categoría “para completar”.
  b) Esta es la parte principal del ejercicio: cómo modelar al objeto que va a ser capaz de desarrollar combates
