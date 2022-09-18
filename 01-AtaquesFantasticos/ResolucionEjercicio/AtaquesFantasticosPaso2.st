@@ -70,7 +70,7 @@ usarHacha
 	dañoAInfligir := 10*pv.! !
 
 
-!CombatienteHumanoArthas class methodsFor: '--** private fileout/in **--' stamp: 'A 9/18/2022 16:48:44'!
+!CombatienteHumanoArthas class methodsFor: '--** private fileout/in **--' stamp: 'A 9/18/2022 16:53:36'!
 initializeCollaboratorsFromFile
 	"Auto generated method for loading purposes - Do not modify it"
 
@@ -154,7 +154,20 @@ usarHacha
 	dañoAInfligir := 10*pv.! !
 
 
-!CombatienteOrcoMankrik class methodsFor: '--** private fileout/in **--' stamp: 'A 9/18/2022 16:48:44'!
+!CombatienteOrcoMankrik class methodsFor: 'as yet unclassified' stamp: 'A 9/16/2022 19:58:23'!
+estaHerido
+	^self puntosDeVida < (20*pv)! !
+
+!CombatienteOrcoMankrik class methodsFor: 'as yet unclassified' stamp: 'A 9/16/2022 19:55:23'!
+noEstaHerido
+	^self puntosDeVida = (20*pv).! !
+
+!CombatienteOrcoMankrik class methodsFor: 'as yet unclassified' stamp: 'A 9/18/2022 02:03:54'!
+tienePuntosDeVida: pv
+	^self puntosDeVida = pv.! !
+
+
+!CombatienteOrcoMankrik class methodsFor: '--** private fileout/in **--' stamp: 'A 9/18/2022 16:53:36'!
 initializeCollaboratorsFromFile
 	"Auto generated method for loading purposes - Do not modify it"
 
@@ -238,7 +251,20 @@ usarHacha
 	dañoAInfligir := 10*pv.! !
 
 
-!CombatienteOrcoOlgra class methodsFor: '--** private fileout/in **--' stamp: 'A 9/18/2022 16:48:44'!
+!CombatienteOrcoOlgra class methodsFor: 'as yet unclassified' stamp: 'A 9/16/2022 19:59:42'!
+estaHerido
+	^self puntosDeVida < (20*pv).! !
+
+!CombatienteOrcoOlgra class methodsFor: 'as yet unclassified' stamp: 'A 9/16/2022 19:34:48'!
+noEstaHerido
+	^self puntosDeVida = (20*pv).! !
+
+!CombatienteOrcoOlgra class methodsFor: 'as yet unclassified' stamp: 'A 9/16/2022 18:10:52'!
+tienePuntosDeVida: pv
+	^self puntosDeVida = pv.! !
+
+
+!CombatienteOrcoOlgra class methodsFor: '--** private fileout/in **--' stamp: 'A 9/18/2022 16:53:36'!
 initializeCollaboratorsFromFile
 	"Auto generated method for loading purposes - Do not modify it"
 

@@ -179,3 +179,267 @@ initializeCollaboratorsFromFile
 	puntosDeVida := (SimpleMeasure basicNew instVarAt: 1 put: 20; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
 	enemigos := #().
 	estaDistraido := false.!
+
+----STARTUP---- (18 September 2022 16:52:43) as C:\Users\Dell\Desktop\Algoritmos_Programacion_III\ejercicios-2022-2c\01-AtaquesFantasticos\ResolucionEjercicio\CuisUniversity-5466.image!
+
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:03'!
+ERROR!
+
+----End fileIn of C:\Users\Dell\Desktop\Algoritmos_Programacion_III\ejc\ResolucionEjercicio\AtaquesFantasticosPaso2.st----!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+PASSED!
+
+!testRun: #DenotativeObjectTestCase #performRealTest stamp: 'A 9/18/2022 16:53:23'!
+ERROR!
+!CombatienteHumanoArthas class methodsFor: '--** private fileout/in **--' stamp: 'A 9/18/2022 16:53:36' overrides: 50506863!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	enemigos := #().
+	puntosDeVida := (SimpleMeasure basicNew instVarAt: 1 put: 18; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAInfligir := (SimpleMeasure basicNew instVarAt: 1 put: 2; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAAbsorber := (SimpleMeasure basicNew instVarAt: 1 put: 6; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	estrategia := ((SerializableBlockClosure basicNew instVarAt: 1 put: CombatienteHumanoArthas; instVarAt: 2 put: '[ :argm4_1 |
+	argm4_1 anyOne. ]'; instVarAt: 3 put: #(); yourself) asEvaluable).! !
+!CombatienteOrcoMankrik class methodsFor: '--** private fileout/in **--' stamp: 'A 9/18/2022 16:53:36' overrides: 50506863!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	enemigos := #().
+	puntosDeVida := (SimpleMeasure basicNew instVarAt: 1 put: 20; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAInfligir := (SimpleMeasure basicNew instVarAt: 1 put: 2; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAAbsorber := (SimpleMeasure basicNew instVarAt: 1 put: 0; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	estrategia := ((SerializableBlockClosure basicNew instVarAt: 1 put: CombatienteOrcoMankrik; instVarAt: 2 put: '[ :argm4_1 |
+	argm4_1 anyOne. ]'; instVarAt: 3 put: #(); yourself) asEvaluable).! !
+!CombatienteOrcoOlgra class methodsFor: '--** private fileout/in **--' stamp: 'A 9/18/2022 16:53:36' overrides: 50506863!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	estrategia := ((SerializableBlockClosure basicNew instVarAt: 1 put: CombatienteOrcoOlgra; instVarAt: 2 put: '[ :argm4_1 |
+	argm4_1 anyOne. ]'; instVarAt: 3 put: #(); yourself) asEvaluable).
+	dañoAAbsorber := (SimpleMeasure basicNew instVarAt: 1 put: 0; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAInfligir := (SimpleMeasure basicNew instVarAt: 1 put: 8; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	puntosDeVida := (SimpleMeasure basicNew instVarAt: 1 put: 20; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	enemigos := #().
+	estaDistraido := false.! !
+
+!methodRemoval: CombatienteHumanoArthas class #initializeCollaboratorsFromFile stamp: 'A 9/18/2022 16:53:37'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	enemigos := #().
+	puntosDeVida := (SimpleMeasure basicNew instVarAt: 1 put: 18; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAInfligir := (SimpleMeasure basicNew instVarAt: 1 put: 2; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAAbsorber := (SimpleMeasure basicNew instVarAt: 1 put: 6; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	estrategia := ((SerializableBlockClosure basicNew instVarAt: 1 put: CombatienteHumanoArthas; instVarAt: 2 put: '[ :argm4_1 |
+	argm4_1 anyOne. ]'; instVarAt: 3 put: #(); yourself) asEvaluable).!
+
+!methodRemoval: CombatienteOrcoMankrik class #initializeCollaboratorsFromFile stamp: 'A 9/18/2022 16:53:37'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	enemigos := #().
+	puntosDeVida := (SimpleMeasure basicNew instVarAt: 1 put: 20; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAInfligir := (SimpleMeasure basicNew instVarAt: 1 put: 2; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAAbsorber := (SimpleMeasure basicNew instVarAt: 1 put: 0; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	estrategia := ((SerializableBlockClosure basicNew instVarAt: 1 put: CombatienteOrcoMankrik; instVarAt: 2 put: '[ :argm4_1 |
+	argm4_1 anyOne. ]'; instVarAt: 3 put: #(); yourself) asEvaluable).!
+
+!methodRemoval: CombatienteOrcoOlgra class #initializeCollaboratorsFromFile stamp: 'A 9/18/2022 16:53:37'!
+initializeCollaboratorsFromFile
+	"Auto generated method for loading purposes - Do not modify it"
+
+	estrategia := ((SerializableBlockClosure basicNew instVarAt: 1 put: CombatienteOrcoOlgra; instVarAt: 2 put: '[ :argm4_1 |
+	argm4_1 anyOne. ]'; instVarAt: 3 put: #(); yourself) asEvaluable).
+	dañoAAbsorber := (SimpleMeasure basicNew instVarAt: 1 put: 0; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	dañoAInfligir := (SimpleMeasure basicNew instVarAt: 1 put: 8; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	puntosDeVida := (SimpleMeasure basicNew instVarAt: 1 put: 20; instVarAt: 2 put: (BaseUnit basicNew instVarAt: 1 put: 'puntosDeVida'; instVarAt: 2 put: 'puntosDeVidas'; instVarAt: 3 put: 'pv'; yourself); yourself).
+	enemigos := #().
+	estaDistraido := false.!
+
+----SNAPSHOT----(18 September 2022 16:53:41) CuisUniversity-5466.image priorSource: 7075185!
