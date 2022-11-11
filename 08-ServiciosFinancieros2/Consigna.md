@@ -31,9 +31,9 @@ El banco prevé agregar muchos reportes nuevos en un tiempo inmediato, por lo ta
 
 Implementar la solución haciendo TDD. Deben partir del código de la solución del ejercicio anterior, ya sea el realizado por ustedes o a partir de la solución provista por la cátedra.
 
-## Extra: Reportes especiales
+## Reportes especiales
 
-El CEO del banco nos premiará si logramos tener 2 nuevos reportes para portfolios. El primero (PortfolioTreePrinter) deberá mostrar la estructura de árbol completa del portfolio. El segundo, un reporte más detallado (PortfolioDetailedTreePrinter) que muestre las transacciones indentadas de acuerdo a la profundidad de cada cuenta del portfolio.
+El CEO del banco nos pidió armar otros 2 nuevos reportes para portfolios. El primero (PortfolioTreePrinter) deberá mostrar la estructura de árbol completa del portfolio. El segundo, un reporte más detallado (PortfolioDetailedTreePrinter) que muestre las transacciones indentadas de acuerdo a la profundidad de cada cuenta del portfolio.
 
 Dado un portfolio como se muestra a continuación: 
 ```
